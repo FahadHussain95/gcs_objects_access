@@ -1,0 +1,14 @@
+*.log
+*.pyc
+*.mo
+*.orig
+*.ini
+.idea/
+#logs/
+migrations/*
+!migrations/__init__.py
+robots.txt
+uwsgi.xml
+staticfiles/
+django_social_auth_demo/local_settings.py
+db.sqlite3
